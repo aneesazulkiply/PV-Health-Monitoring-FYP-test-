@@ -1,0 +1,18 @@
+{
+  "latest_window_mid": "2026-05-31 08:00:00",
+  "HI": 0.1558,
+  "condition_state": "Low Performance",
+  "drift_magnitude": 50.4682,
+  "damage_index": 0.4459,
+  "maintenance_required": false,
+  "rul_reliable": true,
+  "rul_reason": "",
+  "RUL_to_warning_days": 0.0,
+  "RUL_to_critical_days": 72.29,
+  "stable_healthy_duration_days": 0.0,
+  "degradation_cycle_detected": true,
+  "recovery_candidate": false,
+  "recovery_confirmed": false,
+  "new_baseline_candidate": false,
+  "partial_damage_reset_applied": false
+}

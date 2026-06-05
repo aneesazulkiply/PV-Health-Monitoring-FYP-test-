@@ -1,0 +1,21 @@
+Analysis Item,Result
+Total Monitoring Windows,250
+Start Time,2026-03-01 12:00:00
+End Time,2026-03-11 21:00:00
+Latest HI,0.467
+Minimum HI,0.0
+Mean HI,0.6645
+Latest Condition,Moderate Condition
+Maximum Drift Magnitude,3.7793
+Latest Drift Magnitude,3.0205
+Latest Damage Index,0.001
+Maintenance Required,False
+RUL Reliable,False
+RUL Reason,Monitoring duration is too short for reliable RUL estimation.
+Days Before Warning,13363.395999977169
+Days Before Inspection,26733.791522449257
+Stable Healthy Duration Days,0.25
+Recovery Candidate,False
+Recovery Confirmed,False
+New Baseline Candidate,False
+Partial Damage Reset Applied,False
